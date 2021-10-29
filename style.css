@@ -295,3 +295,12 @@ ul{
         position: relative;
     }
 }
+/*---------- media query for less than 600 screen size --------*/
+@media only screen and (max-width: 600px){
+    .row{
+        text-align: center;
+    }
+    .col-1, .col-2, .col-3, .col-4{
+        flex-basis: 100%;
+    }
+}
