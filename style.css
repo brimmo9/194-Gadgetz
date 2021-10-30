@@ -296,28 +296,28 @@ ul{
     }
     .Order-Form input {
        width: 350px;
-        padding-left: 20px;
-        margin-left: 20px;
-       padding: 20px;
+        padding-left: 15px;
+        margin-left: 15px;
+       padding: 15px;
     }
     .Order-Form label {
         width: 350px;
-         padding: 20px;
+         padding: 15px;
     }
     .Order-Form option{
         width: 350px;
-         padding: 20px;
+         padding: 15px;
     }
     .Order-Form select{
         width: 350px;
-         padding: 20px;
-         padding-left: 20px;
-        margin-left: 20px;
+         padding: 15px;
+         padding-left: 15px;
+        margin-left: 15px;
     }
     .btn{
          padding: 20px;
         margin: auto;
          margin: 30px 0;
-        border-radius: 20px;
+        border-radius: 15px;
     }
 }
